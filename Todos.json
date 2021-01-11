@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": 123,
+      "title": "Get milk."
+    },
+    {
+      "id": 456,
+      "title": "Clean."
+    },
+    {
+      "id": 789,
+      "title": "Go for a walk."
+    },
+  ]
+}
