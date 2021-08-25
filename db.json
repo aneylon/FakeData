@@ -2,15 +2,21 @@
   "todos": [
     {
       "id": 123,
-      "title": "Get milk."
+      "quantity": 0,
+      "title": "Get milk.",
+      "name": "stuff"
     },
     {
       "id": 456,
-      "title": "Clean."
+      "quantity": 7,
+      "title": "Clean.",
+      "name": "things"
     },
     {
       "id": 789,
-      "title": "Go for a walk."
+      "quantity": 3,
+      "title": "Go for a walk.",
+      "name": "whatever"
     }
   ],
   "events": [
