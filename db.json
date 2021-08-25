@@ -13,20 +13,6 @@
       "title": "Go for a walk."
     }
   ],
-  "products": [
-    {
-      "id": 123,
-      "title": "Get milk."
-    },
-    {
-      "id": 456,
-      "title": "Clean."
-    },
-    {
-      "id": 789,
-      "title": "Go for a walk."
-    }
-  ],
   "events": [
     {
       "id": 123,
